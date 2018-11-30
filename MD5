@@ -1,0 +1,15 @@
+4f77308a969cfe44026bed4c9b7f7b28 *DESCRIPTION
+cf5b6f2f89a6955cca383f911e900d48 *NAMESPACE
+e4f4c33f60ac31edc6cefa45d03214fc *R/DataSimulateR.R
+5b7a5b1dd21adc9118dff2ad56f9807c *R/GetFoldChanges.R
+a7aa472a06d6f1a4d60be319ffb5b47b *R/NetworkCreateR.R
+698ccd6e10dc9ec9470e43cc3d1adf4f *R/RateFunctionBuildR.R
+67e682befa9e0069d66b4751188fd378 *build/vignette.rds
+7ae1c59b6a4c77f58b388f1d6ad06702 *inst/doc/MetaboLouise_Intro.R
+c9dd26bc69ccb81a3d8c5fb70876da4c *inst/doc/MetaboLouise_Intro.Rmd
+033cc8120d65984b49bcb89488ee68b5 *inst/doc/MetaboLouise_Intro.html
+607da2fa3d875e7f1422319eee60fe45 *man/DataSimulateR.Rd
+3f57ff1d40c79ae15325d83d3144e0b2 *man/GetFoldChanges.Rd
+3453a32e742c0cab4c2526250378b1ee *man/NetworkCreateR.Rd
+b7686a511baf0694b4968b62a617fb5e *man/RateFunctionBuildR.Rd
+c9dd26bc69ccb81a3d8c5fb70876da4c *vignettes/MetaboLouise_Intro.Rmd
